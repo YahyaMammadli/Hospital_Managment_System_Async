@@ -25,8 +25,8 @@ public class UserValidator : IUserValidator
     {
         if (string.IsNullOrWhiteSpace(password))
             return false;
-        //8
-        if (password.Length < 3 )
+        
+        if (password.Length < 8 )
             return false;
 
         if (!password.Any(char.IsUpper))
