@@ -50,13 +50,12 @@ public class PatientService : IPatientService
 
 
 
-    //Единственное архитектурное решение которое я нашел это сделать PatientRepositoryFactory, так-как нельзя сделать 2 сторонний project reference
+    
 
     public async Task ProcessPatientsAsync(IEnumerable<int> patientIds)
     {
 
         int maxConcurrency = 3;
-        //Использовал SemaphoreSlim потому что он быстрее более async-friendly и не имеет kernel-level который мне ну нужен
         using var semaphore = new SemaphoreSlim(maxConcurrency);
 
         var tasks = patientIds.Select(async patientId =>
