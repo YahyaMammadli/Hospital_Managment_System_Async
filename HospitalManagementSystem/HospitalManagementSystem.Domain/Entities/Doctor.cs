@@ -8,7 +8,6 @@
         public string Specialization { get; set; } = string.Empty;
         public int RoomNumber { get; set; }
 
-        //Вычисляемое поле
         public string FullName => $"{Name} {Surname}";
 
 
