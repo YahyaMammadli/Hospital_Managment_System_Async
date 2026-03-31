@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HospitalManagementSystem.Application\HospitalManagementSystem.Application.csproj" />
+    <ProjectReference Include="..\HospitalManagementSystem.Domain\HospitalManagementSystem.Domain.csproj" />
+    <ProjectReference Include="..\HospitalManagementSystem.Persistence\HospitalManagementSystem.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

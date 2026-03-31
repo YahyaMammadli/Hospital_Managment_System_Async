@@ -1,0 +1,17 @@
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\obj\Debug\net8.0\HospitalManagementSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\obj\Debug\net8.0\HospitalManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\obj\Debug\net8.0\HospitalManagementSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\obj\Debug\net8.0\HospitalManagementSystem.Application.AssemblyInfo.cs
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\obj\Debug\net8.0\HospitalManagementSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\bin\Debug\net8.0\HospitalManagementSystem.Application.deps.json
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\bin\Debug\net8.0\HospitalManagementSystem.Application.dll
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\bin\Debug\net8.0\HospitalManagementSystem.Application.pdb
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\bin\Debug\net8.0\HospitalManagementSystem.Domain.dll
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\bin\Debug\net8.0\HospitalManagementSystem.Domain.pdb
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\obj\Debug\net8.0\Hospital.BFFAC5B8.Up2Date
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\obj\Debug\net8.0\HospitalManagementSystem.Application.dll
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\obj\Debug\net8.0\refint\HospitalManagementSystem.Application.dll
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\obj\Debug\net8.0\HospitalManagementSystem.Application.pdb
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\obj\Debug\net8.0\ref\HospitalManagementSystem.Application.dll
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\bin\Debug\net8.0\HospitalManagementSystem.Persistence.dll
+C:\Users\Root\Desktop\Exam\HospitalManagementSystem\HospitalManagementSystem.Application\bin\Debug\net8.0\HospitalManagementSystem.Persistence.pdb
