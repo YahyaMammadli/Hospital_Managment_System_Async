@@ -14,7 +14,7 @@ public class Patient
     public string Diagnosis { get; set; } = string.Empty;
     public bool IsActive { get; set; } = true;
 
-    //Вычисляемое поле
+    
     public string FullName => $"{Name} {Surname}";
 
 
