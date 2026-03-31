@@ -22,8 +22,7 @@ public class MenuHandler
         _doctorRepository = doctorRepository;
     }
 
-    //Username: Admin
-    //Password: Admin1
+    
 
 
     public async Task RunAsync()
